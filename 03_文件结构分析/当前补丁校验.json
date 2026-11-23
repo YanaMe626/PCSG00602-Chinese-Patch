@@ -1,0 +1,52 @@
+{
+  "font": {
+    "typeface": "NotoSansCJKsc-Regular.otf",
+    "typeface_sha256": "2c76254f6fc379fddfce0a7e84fb5385bb135d3e399294f6eeb6680d0365b74b",
+    "glyphs": 7966,
+    "original_codes_redrawn": 6934,
+    "new_codes": 1032,
+    "translation_characters": 3130,
+    "missing_translation_characters": 0,
+    "composed_from_same_typeface": [
+      "≒"
+    ],
+    "identical_ffu_sha256": "5b3e3d98d59b18c58a884c411a6f5e4d1eaf0b0cc6320ab8740b3564b66482ef",
+    "eboot_verification": {
+      "lookup_address": "0x810c25a4",
+      "lookup_codes_checked": 65536,
+      "decoder_address": "0x810c33cc",
+      "decoder_codes_checked": 7966,
+      "mismatches": 0
+    }
+  },
+  "archives": {
+    "STORY.cpk": {
+      "replaced": 145,
+      "unchanged_entries_verified": 136,
+      "bytes": 71181752,
+      "sha256": "2049a1e30e14afbbe84fcaca5b9891ca3a55264cf5e82a226ceeaa45fb4beb01",
+      "rows": 115580,
+      "changed": 86035,
+      "expanded_rows": 10263,
+      "text_files": 145,
+      "text_rows_verified_after_repack": 115580,
+      "translation_file": "story_text_merged_114201_114677.tsv",
+      "translation_sha256": "1a15c33011e7a18422c851f5509e46d2d6644d3f4f98b2ce4f5bbfa04551dc88",
+      "supplemental_file": "story_name_variants_zh.tsv",
+      "supplemental_sha256": "e110765730cc23a881cea686a8bebeb5a513775a6babfad90b1029e6075c3667",
+      "supplemental_rows": 903
+    },
+    "SYSTEM.cpk": {
+      "replaced": 8,
+      "unchanged_entries_verified": 33,
+      "bytes": 21050024,
+      "sha256": "2389f60f1260f8226ac95544f81cd21e73a085a50b668a29e1006b30b9e989ef",
+      "rows": 360,
+      "changed": 290,
+      "text_files": 6,
+      "text_rows_verified_after_repack": 360,
+      "translation_file": "system_strings_translated.tsv",
+      "translation_sha256": "8a74d661f1f57edfeb7e01c181e02b08be7b5f8aaa0e185565c806048f65df9e"
+    }
+  }
+}

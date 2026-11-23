@@ -1,0 +1,5 @@
+fonttools
+numpy
+Pillow
+pycryptodome
+unicorn

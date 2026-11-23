@@ -1,0 +1,12 @@
+{
+  "content_id": "JP0031-PCSG00602_00-SHINOBIKOIPSVITA",
+  "elf_size": 2410552,
+  "elf_sha256": "7acb397531ede9b7893af31e44556434cd455b59776360e4cdb84c08a682af07",
+  "elf_self_digest_verified": true,
+  "pfs_paths": [
+    "eboot.bin",
+    "data/SYSTEM.cpk",
+    "data/STORY.cpk",
+    "data/GAME.cpk"
+  ]
+}
